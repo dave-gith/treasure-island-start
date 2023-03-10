@@ -8,11 +8,8 @@ Make your own "Choose Your Own Adventure" game. Use conditionals such as `if`, `
 
 However, I think the fun part is writing your *own* story 😊
 
-🧞‍♂️ 🐊 🧙‍♂️ 🧟 🧚‍♂️ 🧝‍♂️ 🥷 🤖 👽 🙀 
-
-That said if you'd like to continue with my example, feel free to use the text snippets below...
-
-### Text Snippets from my example
+🧞‍♂️ 🐊 🧙‍♂️ 🧟 🧚‍♂️ 🧝‍♂️ 🥷 🤖 👽 🙀
+### Text Snippets.
 
 * 'You\'re at a crossroad. Where do you want to go? Type "left" or "right"'
 * 'You\'ve come to a lake. There is an island in the middle of the lake. Type "wait" to wait for a boat. Type "swim" to swim across.'
